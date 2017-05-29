@@ -1,5 +1,6 @@
 # PTPMNM-KT
 <b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH</b>
+<hr>
 <br>Thực hiện :<li>Nguyễn Đăng Khoa </li>
                    <li> Bùi Nguyễn Hồng Phúc</li>
                    <li>Nguyễn Văn Thắng</li>
@@ -8,15 +9,17 @@ Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
 
 <b>Bối cảnh:</b>
 <hr>
-Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
-Công ty bán lẻ sách Phương Nam cũng không nằm ngoài xu thế phát triển này, ngoài việc ứng dụng Công nghệ thông tin vào việc quản lý hàng hóa, Công ty Phương Nam còn có website giới thiệu các mặt hàng, cập nhật thông tin khuyến mại, giá cả sách, giúp người mua có thể có thông tin chính xác nhất  về các mặt hàng mình cần trong thời gian ngắn nhất.
+<br>Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
+<br>Công ty bán lẻ sách Phương Nam cũng không nằm ngoài xu thế phát triển này, ngoài việc ứng dụng Công nghệ thông tin vào việc quản lý hàng hóa, Công ty Phương Nam còn có website giới thiệu các mặt hàng, cập nhật thông tin khuyến mại, giá cả sách, giúp người mua có thể có thông tin chính xác nhất  về các mặt hàng mình cần trong thời gian ngắn nhất.
 
 <b>Sơ lược về sản phẩm :</b> 
+<hr>
 
--Sản phẩm được tạo ra nhằm giúp quản lý các công việc của cửa hàng sách, giúp người quản lý cửa hàng dễ dàng quản lý nhân viên cũng như chi tiêu trong cửa hàng
--Sản phẩm hướng tới đối tượng  là các cửa hàng sách bán lẻ ( cụ thể : cửa hàng sách Phương Nam)
+<br>-Sản phẩm được tạo ra nhằm giúp quản lý các công việc của cửa hàng sách, giúp người quản lý cửa hàng dễ dàng quản lý nhân viên cũng như chi tiêu trong cửa hàng
+<br>-Sản phẩm hướng tới đối tượng  là các cửa hàng sách bán lẻ ( cụ thể : cửa hàng sách Phương Nam)
 
-<b>Chức năng dự kiến của phần mềm - Mục tiêu dự án:</b>
+<b>Chức năng dự kiến của phần mềm </b><br>
+<b>- Mục tiêu dự án:</b><br>
 +Quản lý sách (nhân viên quản lý sách ).  
   -In ra danh sách ‘Sách’ (theo tên , thể loại ,lứa tuổi ,số lượng,...)
   -Cập nhật (thêm, xóa, sửa) sách .
