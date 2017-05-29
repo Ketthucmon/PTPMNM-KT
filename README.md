@@ -1,12 +1,12 @@
 # PTPMNM-KT
 <b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH</b>
-<br>Thực hiện :<ul> -Nguyễn Đăng Khoa (Nhóm trưởng )
+<br>Thực hiện :<ul>&#32; -Nguyễn Đăng Khoa (Nhóm trưởng )
                    <li>-Bùi Nguyễn Hồng Phúc</li>
                    <li>-Nguyễn Văn Thắng</li>
                    <li>-Phạm Thị Mỹ Linh</li></ul>
 Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
 
-<b>Bối cảnh</b>
+<b>Bối cảnh:</b>
 Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
 Công ty bán lẻ sách Phương Nam cũng không nằm ngoài xu thế phát triển này, ngoài việc ứng dụng Công nghệ thông tin vào việc quản lý hàng hóa, Công ty Phương Nam còn có website giới thiệu các mặt hàng, cập nhật thông tin khuyến mại, giá cả sách, giúp người mua có thể có thông tin chính xác nhất  về các mặt hàng mình cần trong thời gian ngắn nhất.
 
