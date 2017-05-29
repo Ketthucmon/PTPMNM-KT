@@ -1,6 +1,6 @@
 # PTPMNM-KT
 <b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH</b>
-Thực hiện : -Nguyễn Đăng Khoa (Nhóm trưởng )
+<br>Thực hiện : -Nguyễn Đăng Khoa (Nhóm trưởng )</br>
                    -Bùi Nguyễn Hồng Phúc
                    -Nguyễn Văn Thắng
                    -Phạm Thị Mỹ Linh
