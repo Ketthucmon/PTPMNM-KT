@@ -1,9 +1,9 @@
 # PTPMNM-KT
 <b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH</b>
-<br>Thực hiện : -Nguyễn Đăng Khoa (Nhóm trưởng )</br>
-                   <br>-Bùi Nguyễn Hồng Phúc</br>
-                   <br>-Nguyễn Văn Thắng</br>
-                   <br>-Phạm Thị Mỹ Linh</br>
+<br>Thực hiện :<ul> -Nguyễn Đăng Khoa (Nhóm trưởng )
+                   <li>-Bùi Nguyễn Hồng Phúc</li>
+                   <li>-Nguyễn Văn Thắng</li>
+                   <li>-Phạm Thị Mỹ Linh</li></ul>
 Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
 
 <b>Bối cảnh</b>
