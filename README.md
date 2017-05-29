@@ -22,23 +22,23 @@ Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
 <b>Chức năng dự kiến của phần mềm </b><br/>
 <hr/>
 <b>- Mục tiêu dự án:</b><br/>
-<br/><li>+Quản lý sách (nhân viên quản lý sách ).  </li>
+<br/><li>Quản lý sách (nhân viên quản lý sách ).  </li>
   <br/>-In ra danh sách ‘Sách’ (theo tên , thể loại ,lứa tuổi ,số lượng,...)
   <br/>-Cập nhật (thêm, xóa, sửa) sách .
  <br/> -In ra thể loại sách có nhiều sách nhất . 
-<br/><li>+Quản lý nhân viên ( quản lý).</li>
+<br/><li>Quản lý nhân viên ( quản lý).</li>
  <br/> -In ra danh sách tài khoản nhân viên ( cả danh sách nhân viên ).
  <br/> -Cập nhật ( thêm , xóa ,sửa) id nhân viên , khách hàng .
   <br/>-Chấm công nhân viên theo tháng .
   <br/>-Danh sách nhân viên làm đủ số ngày qui định.
-<br/><li>+Quản lý bán hàng (nhân viên bán hàng   ).</li>
+<br/><li>Quản lý bán hàng (nhân viên bán hàng   ).</li>
   <br/>-In ra tổng doanh thu theo ngày . 
   <br/>-In hóa đơn sản phẩm .
   <br/>-In ra sách được bán nhiều nhất trong ngày và tiền thu được từ sách đó .
-<br/><li>+Quản lý thu chi (nhân viên kế toán ) .</li>
+<br/><li>Quản lý thu chi (nhân viên kế toán ) .</li>
   <br/>-Tính , in ra lương của từng nhân viên theo tháng.
   <br/>-In ra danh sách nhân viên ứng lương trong tháng .
-<br/><li>+Bán hàng trực tuyến.</li>
+<br/><li>Bán hàng trực tuyến.</li>
   <br/>-In ra danh sách ‘Sách’ bán chạy theo tháng.
   <br/>-Cập nhật , in thông tin cá nhân tài khoản khách hàng .
   <br/>-Đặt mua sách .( Cập nhật lại số lượng sách mà khách hàng mua , tính tiền sau khi thanh toán )
