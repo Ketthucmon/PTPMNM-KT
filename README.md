@@ -1,13 +1,12 @@
 # PTPMNM-KT
 <br/>
 <b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH</b>
-<hr><br/>
+<br/>
 Thực hiện :<li>Nguyễn Đăng Khoa </li>
                    <li> Bùi Nguyễn Hồng Phúc</li>
                    <li>Nguyễn Văn Thắng</li>
                    <li>Phạm Thị Mỹ Linh</li><br/>
-Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
-
+Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)<br/>
 <b>Bối cảnh:</b>
 <hr>
 <br>Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
