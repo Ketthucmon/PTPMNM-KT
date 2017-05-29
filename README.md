@@ -1,12 +1,13 @@
 # PTPMNM-KT
 <br/>
 <b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH</b>
-<br/>
+<hr/><br/>
 Thực hiện :<li>Nguyễn Đăng Khoa </li>
                    <li> Bùi Nguyễn Hồng Phúc</li>
                    <li>Nguyễn Văn Thắng</li>
                    <li>Phạm Thị Mỹ Linh</li><br/>
-Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)<br/>
+Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
+<br/>
 <b>Bối cảnh:</b>
 <hr>
 <br>Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
@@ -20,25 +21,25 @@ Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)<br/
 
 <b>Chức năng dự kiến của phần mềm </b><br>
 <b>- Mục tiêu dự án:</b><br>
-+Quản lý sách (nhân viên quản lý sách ).  
-  -In ra danh sách ‘Sách’ (theo tên , thể loại ,lứa tuổi ,số lượng,...)
-  -Cập nhật (thêm, xóa, sửa) sách .
-  -In ra thể loại sách có nhiều sách nhất . 
-+Quản lý nhân viên ( quản lý).
-  -In ra danh sách tài khoản nhân viên ( cả danh sách nhân viên ).
-  -Cập nhật ( thêm , xóa ,sửa) id nhân viên , khách hàng .
-  -Chấm công nhân viên theo tháng .
-  -Danh sách nhân viên làm đủ số ngày qui định.
-+Quản lý bán hàng (nhân viên bán hàng   ).
-  -In ra tổng doanh thu theo ngày . 
-  -In hóa đơn sản phẩm .
-  -In ra sách được bán nhiều nhất trong ngày và tiền thu được từ sách đó .
-+Quản lý thu chi (nhân viên kế toán ) .
-  -Tính , in ra lương của từng nhân viên theo tháng.
-  -In ra danh sách nhân viên ứng lương trong tháng .
-+Bán hàng trực tuyến.
-  -In ra danh sách ‘Sách’ bán chạy theo tháng.
-  -Cập nhật , in thông tin cá nhân tài khoản khách hàng .
-  -Đặt mua sách .( Cập nhật lại số lượng sách mà khách hàng mua , tính tiền sau khi thanh toán )
+<br/>+Quản lý sách (nhân viên quản lý sách ).  
+  <br/>-In ra danh sách ‘Sách’ (theo tên , thể loại ,lứa tuổi ,số lượng,...)
+  <br/>-Cập nhật (thêm, xóa, sửa) sách .
+ <br/> -In ra thể loại sách có nhiều sách nhất . 
+<br/>+Quản lý nhân viên ( quản lý).
+ <br/> -In ra danh sách tài khoản nhân viên ( cả danh sách nhân viên ).
+ <br/> -Cập nhật ( thêm , xóa ,sửa) id nhân viên , khách hàng .
+  <br/>-Chấm công nhân viên theo tháng .
+  <br/>-Danh sách nhân viên làm đủ số ngày qui định.
+<br/>+Quản lý bán hàng (nhân viên bán hàng   ).
+  <br/>-In ra tổng doanh thu theo ngày . 
+  <br/>-In hóa đơn sản phẩm .
+  <br/>-In ra sách được bán nhiều nhất trong ngày và tiền thu được từ sách đó .
+<br/>+Quản lý thu chi (nhân viên kế toán ) .
+  <br/>-Tính , in ra lương của từng nhân viên theo tháng.
+  <br/>-In ra danh sách nhân viên ứng lương trong tháng .
+<br/>+Bán hàng trực tuyến.
+  <br/>-In ra danh sách ‘Sách’ bán chạy theo tháng.
+  <br/>-Cập nhật , in thông tin cá nhân tài khoản khách hàng .
+  <br/>-Đặt mua sách .( Cập nhật lại số lượng sách mà khách hàng mua , tính tiền sau khi thanh toán )
 
 
