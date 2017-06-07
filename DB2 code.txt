@@ -1,0 +1,83 @@
+Create database QLSACH
+// Tao Schema
+Create Schema user_sach
+Create Schema user_banhang
+Create Schema user_quanly
+Create Schema user_khachhang
+Create Schema user_ketoan
+//Tao bang CSDL NXB
+Create table user_sach.nxb(
+MaNXB varchar(10) not null primary key,
+TenNXB vargraphic(30) not null unique,
+DiaChi vargraphic(50),
+SoDT varchar(15))
+//Tao bang CSDL TheLoai
+Create table user_sach.Theloai(
+MaTL varchar(10) not null primary key,
+Tentl vargraphic(30) not null,
+luatuoi vargraphic(20))
+//Tao bang CSDL Sach
+Create table user_sach.sach(
+MaSach varchar(10) not null primary key,
+TenSach vargraphic(30) not null,
+Anhsach varchar(30) not null,
+tacgia vargraphic(30),
+Gia int not null check(gia>10),
+soluong smallint not null check(soluong>=0),
+MaTL varchar(10) not null foreignA references user_sach.theloai(Matl),
+MaNXB varchar(10) not null foreignB references user_sach.NXB(MaNXB)) 
+//Tao bang CSDL khach hang
+Create table user_khachhang.khachhang(
+MaKH varchar(10) not null primary key,
+TenKH vargraphic(10) not null,
+SDT varchar(15) not null,
+DiaChi vargraphic(30) not null,
+Email varchar(30) not null)
+//Tao bang csdl chuc vu
+create table user_quanly.chucvu(
+macv varchar(10) not null primary key,
+tencv vargraphic(20) not null unique,
+phucapvc smallint not null check(phucapcv>10)
+)
+//Tao bang csdl nhanvien
+create table user_quanly.nhanvien(
+idnv varchar(10) not null primary key,
+honv vargraphic(20) not null,
+tennv vargraphic(20) not null,
+namsinh int not null check((namsinh<1999)&&(namsinh>1966)),
+gioitinh smallint not null,
+macv varchar(10) not null foreign references user_quanly.chucvu(macv)
+)
+//Tao bang CSDL diem danh
+Create table user_quanly.diemdanh(
+idnv varchar(10) not null,
+ngayvang date not null,
+lydo vargraphic(50),
+constraint pk primary key(idnv,ngayvang)
+)
+//Tao bang CSDL Hoa Don
+Create table user_banhang.hoadon(
+MaHD varchar(10) not null primary key,
+NgayHD date not null,
+MaKH varchar(10) not null foreigna references user_khachhang.khachang(makh),
+IdNV varchar(20) not null foreignb references user_quanly.nhanvien(idnv)
+)
+//Tao bang CSDL Hoa don mat hang
+Create table user_banhang.HDMH(
+MaHD varchar(10) not null foreigna references user_banhang.Hoadon(MaHD),
+MaSach varchar(10) not null foreginb references user_sach.sach(masach),
+SoLuong smallint not null,
+Giamgia smallint not null check((Giamgia>10)&&(Giamgia<=100)),
+Constraint PK primary key(MaHD,MaSach)
+)
+//Tao bang CSDL Lap phieu chi
+create table user_ketoan.phieuchi(
+machi varchar(10) not null ,
+ngaychi date not null,
+idnv varchar(10) not null foreign references user_quanly.nhanvien(idnv),
+Thang smallint not null check((thang>0)&&(thang<13))
+Nam smaillint not nullcheck(nam>2017)
+constraint pk primary key(machi,idnv,thang,nam)
+)
+//grant DBADM on database to user <userid> lenh gan superadmin cho user
+moi sua lai cai nay
