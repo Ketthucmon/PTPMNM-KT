@@ -80,3 +80,4 @@ Nam smaillint not nullcheck(nam>2017)
 constraint pk primary key(machi,idnv,thang,nam)
 )
 //grant DBADM on database to user <userid> lenh gan superadmin cho user
+
