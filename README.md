@@ -1,3 +1,4 @@
+
 # SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH
 
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/Linh/image/Header.png" />
@@ -10,6 +11,7 @@ Thực hiện :<li>Nguyễn Đăng Khoa </li>
                    <li>Phạm Thị Mỹ Linh</li><br/>
 Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
 <br/>
+
 
 <hr>
 <b>Bối cảnh:</b>
@@ -24,7 +26,6 @@ Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
 
 
 <hr/>
-<b>Chức năng dự kiến của phần mềm </b><br/>
 <b>- Mục tiêu dự án:</b><br/>
 <br/><li>Quản lý sách (nhân viên quản lý sách ).  </li>
   <br/>-In ra danh sách ‘Sách’ (theo tên , thể loại ,lứa tuổi ,số lượng,...)
