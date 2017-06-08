@@ -1,6 +1,6 @@
-# PTPMNM-KT
-<br/>
-<b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH</b>
+# PHÁT TRIỂN PHẦN MỀM NGUỒN MỞ - KẾT THÚC MÔN
+
+# SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH
 <hr/><br/>
 Thực hiện :<li>Nguyễn Đăng Khoa </li>
                    <li> Bùi Nguyễn Hồng Phúc</li>
