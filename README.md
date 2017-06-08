@@ -1,6 +1,8 @@
+# SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH
+
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/Linh/image/Header.png" />
 
-# SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH
+
 <hr/><br/>
 Thực hiện :<li>Nguyễn Đăng Khoa </li>
                    <li> Bùi Nguyễn Hồng Phúc</li>
