@@ -1,4 +1,3 @@
-# PHÁT TRIỂN PHẦN MỀM NGUỒN MỞ - KẾT THÚC MÔN
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/Linh/image/Header.png" />
 
 # SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH
