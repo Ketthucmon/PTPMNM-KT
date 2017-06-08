@@ -1,5 +1,6 @@
 # PHÁT TRIỂN PHẦN MỀM NGUỒN MỞ - KẾT THÚC MÔN
-<img src="https://github.com/Ketthucmon/PTPMNM-KT/tree/Linh/image/Header.png" width="247" height="202" />
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/Linh/image/Header.png" width="247" height="202" />
+
 # SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH
 <hr/><br/>
 Thực hiện :<li>Nguyễn Đăng Khoa </li>
