@@ -1,6 +1,7 @@
 
 
 # BOOK Shop
+
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/Linh/image/Header.png" />
 
 
@@ -47,6 +48,5 @@ Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
   <br/>-In ra danh sách ‘Sách’ bán chạy theo tháng.
   <br/>-Cập nhật , in thông tin cá nhân tài khoản khách hàng .
   <br/>-Đặt mua sách .( Cập nhật lại số lượng sách mà khách hàng mua , tính tiền sau khi thanh toán )
-
 
 
