@@ -1,5 +1,5 @@
 
-# SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG SÁCH
+
 
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/Linh/image/Header.png" />
 
