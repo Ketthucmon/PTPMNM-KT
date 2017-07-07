@@ -1,0 +1,27 @@
+Create database Sach
+connect to sach user admin
+1234567
+//Tao Bang CSDL
+create table Quanly.ChucVu(Macv int not null primary key,tencv vargraphic(20) not null,HSL int not null,phuccap int not null)
+create table QuanLy.Login(MaDN varchar(30) not null primary key,pass varchar(30) not null,Ho vargraphic(20) not null,Ten vargraphic(20) not null,Gioitinh smallint not null,Namsinh int not null,sdt varchar(10),Diachi vargraphic(50) not null,Emaill varchar(50) not null,MaCV int not null foreign references QuanLy.Chucvu(MaCV) on delete cascade)
+create table QuanLy.DiemDanh(IDDD varchar(10) not null unique,MaDN varchar(30) not null foreign references QuanLy.Login(MaDN),NgayVang date not null,Lydo vargraphic(30),ConStraint PK1 primary key (IDDD,MaDN,NgayVang))
+create table KeToan.Luong(MaLuong varchar(10) not null Unique,MaDN varchar(30) not null foreign references QuanLy.Login(MaDN),NgayLuong date not null,Constraint PK2 primary key (MaLuong,MaDN,NgayLuong))
+create table Sach.NXB(MaNXB varchar(10) not null primary key,tenNXB vargraphic(30) not null,SDT varchar(12) not null,DiaChi vargraphic(50) not null)
+create table Sach.TheLoai(MaTL varchar(10) not null primary key,TenTL vargraphic(30) not null,LuaTuoi vargraphic(30) not null)
+create table Sach.Sach(MaSach varchar(10) not null primary key,TenSach vargraphic(30) not null,AnhSach vargraphic(30) not null,MaTL varchar(10) not null foreigna references Sach.TheLoai(MaTL),MaNXB varchar(10) not null foreignb references Sach.NXB(MaNXB),Gia int not null,TomTat vargraphic(30))
+create table BanHang.KhachHang(UserKH varchar(10) not null primary key,Pass varchar(10) not null,TenKH vargraphic(20) not null,DiaChi vargraphic(30) not null,Email vargraphic(20) not null,SDT varchar(12) not null)  
+create table BanHang.HoaDon(MaHD varchar(10) not null primary key,NgayHD date not null,UserKH varchar(10) not null foreign references BanHang.KhachHang(UserKH))
+create table BanHang.HDMH(ID int not null unique,MaHD varchar(10) not null foreigna references BanHang.HoaDon(MaHD),MaSach varchar(10) not null foreignb references Sach.Sach(MaSach),Constraint PK3 primary key (MaSach,ID,MaHD),SoLuong smallint not null,GiamGia smallint)
+//Insert 
+Insert into QuanLy.ChucVu Values (1,'Quan Ly',5,3000),(2,'Ke Toan',4,2500),(3,'Sach',3,2000),(4,'Ban Hang',3,2000)
+Insert into QuanLy.Login Values('Admin','123456','Khoa','Nguyen',1,1996,'0978899101','Nha Trang','KhoaNguyen@gmaill.com',1),('user1','123456','Nguyen','Thang',1,1996,'0978899101','Nha Trang','ThangNguyen@gmaill.com',2),('user2','123456','Pham','Linh',0,1996,'0978899101','Nha Trang','LinhPham@gmaill.com',3),('user3','123456','Phuc','Bui',0,1996,'0978899101','Nha Trang','PhucBui@gmaill.com',4)
+Insert into QuanLy.DiemDanh Values('1','user1','2017-09-08','benh'),('2','user2','2017-10-08','Met'),('3','user3','2017-07-08','chan'),('4','user1','2017-09-06','di choi'),('5','user1','2017-12-08','benh'),('6','user2','2017-09-08','benh'),('7','user1','2017-10-08','benh')
+Insert into KeToan.Luong Values('1','Admin','2017-08-02'),('2','user2','2017-08-02'),('3','user3','2017-08-02'),('4','user1','2017-08-02'),('5','Admin','2017-09-02'),('6','user1','2017-09-02'),('7','user2','2017-09-02'),('8','user3','2017-09-02')
+Insert into Sach.NXB values('NXB01','Kim Dong','01206128947','HCM'),('NXB02','Tre','01206128947','HCM'),('NXB03','Phuong Nam','01206128947','HN'),('NXB04','Giao Duc','01206128947','HCM')
+Insert into Sach.TheLoai values ('TL01','Ngon Tinh','Thanh Nien'),('TL02','SachGiaoKhoa','HocSinh'),('TL03','Truyen Tranh','Vi thanh nien'),('TL04','VanHoc','Thanh Nien')
+Insert into Sach.Sach values('S01','Tieng Viet 3','01','TL02','NXB04',30000,'Khong'),('S02','Cho di','02','TL01','NXB02',30000,'Truyen Hay Ket Thuc Bat Ngo'),('S03','Trang Quynh','03','TL01','NXB01',30000,'Mai chua ket thuc'),('S04','Cho Nhin Ve','04','TL03','NXB03',30000,'Khong'),('S05','Tieng Viet 2','05','TL02','NXB04',30000,'Khong'),('S06','Toan 5','06','TL02','NXB04',30000,'Khong'),('S07','Hoc Duong Nao Nhiet','07','TL01','NXB02',50000,'Khong'),('S08','Tieng Anh Chuyen Nganh CNTT','08','TL02','NXB04',30000,'Khong')
+Insert into BanHang.KhachHang Values('KH01','123456','A','23 Mai Xuan Thuong','ABC@gmail.com','091245678'),('KH02','123456','B','24 Mai Xuan Thuong','ABC1@gmail.com','091245678'),('KH03','123456','C',' Vinh Hoa NT','ABC3@gmail.com','091245678'),('KH04','123456','D',' Vinh Hoa NT','ABC4@gmail.com','091245678')
+Insert into BanHang.HoaDon values('01','2017-09-08','KH01'),('02','2017-09-08','KH02'),('03','2017-10-08','KH03'),('04','2017-09-11','KH04'),('05','2017-09-08','KH02')
+Insert into BanHang.HDMH values(1,'01','S02',2,0),(2,'01','S01',1,10000),(3,'02','S06',1,20000),(4,'03','S02',1,0),(7,'04','S02',1,0),(5,'02','S01',1,0),(6,'03','S03',1,20000)
+
+
