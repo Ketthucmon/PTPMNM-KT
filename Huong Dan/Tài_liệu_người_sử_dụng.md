@@ -8,8 +8,10 @@
 <hr/>
 <p><h>1.	Hướng dẫn thao tác CSDL  IBM- DB2</h><br/>
 -	Link download : </br>
-href="https://www.ibm.com/developerworks/downloads/im/db2express/"<br/>
+<link>https://www.ibm.com/developerworks/downloads/im/db2express/</link><br/>
 -	Sau khi download thực hiện quá trình cài đặt <br/>
+<dd>+ Giao diện cài đặt – click vào Install a product – Next –Next .</dd>
+
 
 </p>
 
