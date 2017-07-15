@@ -39,28 +39,13 @@ Hình .//////////////////////////////////<br/>
 -	Bỏ file vừa gải nén vào c:/xampp/php/etc,  sau đó thêm dòng này extension = php_ibm_db2.dll vào dưới dòng extension=php_gettext.dll của file c:/xampp/php/php.ini . Do chỉ có bản cũ này mới có link ibm phù hợp.<br/>
 -	Hãy thử test với đoạn code sau để xem kết nối có thành công không<br/>
 <table>
-
-
-
- 
-  
- 
- 
-  
-  
-  
-   
-    
-    
     <?php
 
     $database="SAMPLE";
 
-    $user="db2admin";//user
-    bạn điền ở phần cài đặt db2
+    $user="db2admin";//user bạn điền ở phần cài đặt db2
 
-    $pass="1234567";//pass
-    bạn điền ở phần cài đặt db2
+    $pass="1234567";//pass bạn điền ở phần cài đặt db2
 
     $con=db2_connect($database,$user,$pass);
 
@@ -68,44 +53,18 @@ Hình .//////////////////////////////////<br/>
 
     {
 
-    echo "
-    thanh con roi";
+      echo "thanh con roi";
 
-    db2_close($con);
+      db2_close($con);
 
     }
 
     else
 
-    echo "
-    that bai";
+    echo "that bai";
 
     ?>
-
-      
-
-     
-
-     
-
-     
-
-     
-
-    
-                  
-
-     
-
-    
-
-    
-   
-  
-   
  
-
-
 </table>
 
 
