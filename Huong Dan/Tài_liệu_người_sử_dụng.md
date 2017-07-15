@@ -1,4 +1,4 @@
-<center><b>TÀI LIỆU HƯỚNG DẪN SỬ DỤNG TRANG WEB QUẢN LÝ CỬA HÀNG SÁCH</b></center>
+<center><H2>TÀI LIỆU HƯỚNG DẪN SỬ DỤNG TRANG WEB QUẢN LÝ CỬA HÀNG SÁCH</H2></center>
 <hr/></br>
 <p>Tài liệu này được xây dựng bởi các thành viên:</br>
                       -Nguyễn Đăng Khoa</br>
@@ -6,7 +6,7 @@
                       -Bùi Nguyễn Hồng Phúc</br>
  	                    -Phạm Thị Mỹ Linh</p></br>
 <hr/>
-<p><H1>1.	Hướng dẫn thao tác CSDL  IBM- DB2</H1><br/>
+<p><H4>1.	Hướng dẫn thao tác CSDL  IBM- DB2</H4><br/>
 -	Link download : </br>
 <link>https://www.ibm.com/developerworks/downloads/im/db2express/</link><br/>
 -	Sau khi download thực hiện quá trình cài đặt <br/>
@@ -31,7 +31,7 @@
 </p><br/>
 <hr/>
 <p>
-<h>2.	Hướng dẫn cài đặt Web Server (Apache) trong bộ cài đặt Xampp</h><br/>
+<H4>2.	Hướng dẫn cài đặt Web Server (Apache) trong bộ cài đặt Xampp</H4><br/>
 -	Cần lưu ý cài đặt xampp và bản vá hỗ trợ IBM DB2 tương ứng <br/>
 <link>https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.38/ </link><br/>
 <link>http://php.net/manual/en/book.ibm-db2.php  </link><br/>
