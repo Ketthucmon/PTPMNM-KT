@@ -1,1 +1,2 @@
-<b>TÀI LIỆU HƯỚNG DẪN SỬ DỤNG TRANG WEB QUẢN LÝ CỬA HÀNG SÁCH</b>
+<center><b>TÀI LIỆU HƯỚNG DẪN SỬ DỤNG TRANG WEB QUẢN LÝ CỬA HÀNG SÁCH</b></center>
+</hr>
