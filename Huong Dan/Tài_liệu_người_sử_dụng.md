@@ -11,19 +11,19 @@
 <link>https://www.ibm.com/developerworks/downloads/im/db2express/</link><br/>
 -	Sau khi download thực hiện quá trình cài đặt <br/>
 <dd>+ Giao diện cài đặt – click vào Install a product – Next –Next .</dd>
-Hình .//////////////////////////////////<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/image/hinhTLHD/hinh1.png" />
 + Tới phần này điền User và mật khẩu ( cần phải ghi nhớ để sử dụng về sau).<br/>
-Hình .//////////////////////////////////<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/image/hinhTLHD/hinh2.png" />
 + Cuối cùng đợi Finish hoàn thành cài đặt<br/>
-Hình .//////////////////////////////////<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/image/hinhTLHD/hinh3.png" />
 -	Tiếp theo khởi động DB2 Commad Line sẽ ra giao diện </br>
-Hình .//////////////////////////////////<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/image/hinhTLHD/hinh4.png" />
 -	Tạo CSDL Sach ( Create database Sach) đợi khoảng 5-7 phút<br/>
-Hình .//////////////////////////////////<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/image/hinhTLHD/hinh5.png" />
 -	Sau đó thực hiện connect với CSDL Sach (connect to Sach)<br/>
-Hình .//////////////////////////////////<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/image/hinhTLHD/hinh6.png" />
 -	Thực hiện các đoạn Code Script đã cung cấp lưu ý thực hiện từng dòng vì đây là CSDL DB2 command Line  . Ví dụ :<br/>
-Hình .//////////////////////////////////<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/image/hinhTLHD/hinh7.png" />
 	Trên đây là toàn bộ hướng dẫn về CSDL DB2 liên quan đến trang web quản lý cửa hàng sách , các thắc mắc các bạn có thể truy cập link bên dưới để biết thêm kiến thức về CSDL DB2:<br/>
 <link>https://www.ibm.com/developerworks/vn/library/contest/dw-freebooks/Nhap_Mon_DB2_ExpressC/Nhap_mon_DB2_ExpressC_v9.7.pdf </link>
 
@@ -71,6 +71,9 @@ Hình .//////////////////////////////////<br/>
     ?>
  
 </table>
+-	Tạo file test.php  trong htdocs với nội dung code như trên , sau đó khởi động xampp , start Apache .<br/>
+-	Mở trình duyệt web lên truy cập ( localhost/test.php) nếu thành công có nghĩa là xampp đã kết nối với CSDL DB2 .<br/>
+-	Sau đó Download source Code của Web đã cung cấp bỏ vào htdocs , chạy localhost/WebSach/login . Tiếp tục với các tính năng của trang Web.<br/>
 
 
 </p>
