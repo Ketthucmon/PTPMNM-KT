@@ -11,6 +11,12 @@
 <link>https://www.ibm.com/developerworks/downloads/im/db2express/</link><br/>
 -	Sau khi download thực hiện quá trình cài đặt <br/>
 <dd>+ Giao diện cài đặt – click vào Install a product – Next –Next .</dd>
-
+Hình .//////////////////////////////////<br/>
++ Tới phần này điền User và mật khẩu ( cần phải ghi nhớ để sử dụng về sau).<br/>
+Hình .//////////////////////////////////<br/>
++ Cuối cùng đợi Finish hoàn thành cài đặt<br/>
+Hình .//////////////////////////////////<br/>
+-	Tiếp theo khởi động DB2 Commad Line sẽ ra giao diện </br>
+Hình .//////////////////////////////////<br/>
 
 </p>
