@@ -6,7 +6,7 @@
                       -Bùi Nguyễn Hồng Phúc</br>
  	                    -Phạm Thị Mỹ Linh</p></br>
 <hr/>
-<p><h>1.	Hướng dẫn thao tác CSDL  IBM- DB2</h><br/>
+<p><H1>1.	Hướng dẫn thao tác CSDL  IBM- DB2</H1><br/>
 -	Link download : </br>
 <link>https://www.ibm.com/developerworks/downloads/im/db2express/</link><br/>
 -	Sau khi download thực hiện quá trình cài đặt <br/>
