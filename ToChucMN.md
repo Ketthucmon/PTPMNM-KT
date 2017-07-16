@@ -36,4 +36,3 @@ Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và tru
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTCMN/03.png" /><br/>
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTCMN/04.png" /><br/>
 </p>
-
