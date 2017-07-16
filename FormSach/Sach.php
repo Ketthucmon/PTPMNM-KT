@@ -8,7 +8,7 @@ session_start();
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="">
-<title>Trang Quản Trị</title>
+<title>Trang Quản Trị</title> 
 <link rel="stylesheet" type="text/css" href="../css/login.css">
 </head>
 <body>
