@@ -9,7 +9,7 @@
 Page FB:<link> https://www.facebook.com/groups/316257808844305/</link></br>                      
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
-<p><H4>1.	Tài liệu thiết kế :</H4><br/>
+<p><H4>1.	Tài liệu thiết kế :</H4><br/> 
 Tham khảo qua :<link> https://github.com/Ketthucmon/PTPMNM-KT/blob/master/TaiLieuTK.md</link>
 </p>
 <p><H4>2.	Tài liệu tổ chức mã nguồn </H4><br/>
