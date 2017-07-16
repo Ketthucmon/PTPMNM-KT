@@ -3,18 +3,15 @@
             <table width="800px" id="main-content" border="0px" cellpadding="0px" cellspacing="0px">
             	<tr id="main-navbar" height="36px">
                 	<td colspan="6">thêm ID	</td>
-                </tr>
-              
+                </tr>  
                 <tr height="50">
                 	<td class="form" width="150px"><label>Tên tài khoản:</label></td>
                     <td class="form"><input type="text" name="user" /></td><!-- Textbox User-->
-                </tr>
-                
+                </tr> 
                   <tr height="50">
                 	<td class="form"><label>Mật khẩu:</label></td>
                     <td class="form"><input type="text" name="pass" /></td><!-- Textbox Pass -->
                 </tr>  
-
        <tr height="50">
                 	<td class="form"><label>Họ</label></td>
                     <td class="form"><input type="text" name="ho" /></td><!-- Textbox Họ-->
@@ -56,9 +53,7 @@
                   		$stmt = db2_prepare($conn, $SQL);
                   		
                   		if ($stmt) {		
-                  			$result = db2_execute($stmt);
-                  		
-                  	        
+                  			$result = db2_execute($stmt);	        
                   ?>
                   <select name="cv" >
                                       <?php  
