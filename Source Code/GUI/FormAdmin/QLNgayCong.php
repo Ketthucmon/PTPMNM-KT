@@ -44,4 +44,5 @@ while ($row = db2_fetch_array($stmt)) {
 <?php } 
 } else { echo"<script>alert(\"chua co du lieu\")</script>";}?>
 </table>
+
 		
