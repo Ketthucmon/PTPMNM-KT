@@ -31,6 +31,5 @@ Nếu muốn đóng góp hoặc gặp khó khăn gì thì liên hệ với chún
 <li> Page Facebook:  (https://www.facebook.com/groups/316257808844305/)</li>
 <li> Gmail:  (Khoanguyen8947@gmail.com)</li>
 <li> SĐT: 0978899101 </li>
-
 </ul> 
-<center>**!!!RẤT VUI KHI ĐƯỢC CỘNG TÁC CÙNG BẠN!!!**</center>
+<center><H3>RẤT VUI KHI ĐƯỢC CỘNG TÁC CÙNG BẠN!</H3></center>
