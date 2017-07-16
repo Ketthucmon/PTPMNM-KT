@@ -32,7 +32,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                         	<tr>
                             	<td><a href="#">--__--__--__--__--__--__--__--__--__Chào mừng đã đến với Cửa hàng sách Phương Nam --__--__--__--__--__--__--__--__--__--__--__--__--__--</a></td>
                             </tr>
-                        </table>
+                        </table> 
                     </td>
                 </tr>
                 <tr height="31px">
