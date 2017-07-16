@@ -1,7 +1,6 @@
 <?php $mahd = $_GET["mahd"];//lấy thông tin mã thêm
 require("../../Data/Connect.php");//kết nối CSDL
  ?>
- 
 	   <form method="post" enctype="multipart/form-data">
             <table width="800px" id="main-content" border="0px" cellpadding="0px" cellspacing="0px">
             	<tr id="main-navbar" height="36px">
