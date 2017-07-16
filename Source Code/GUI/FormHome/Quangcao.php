@@ -3,7 +3,6 @@ table tr td mark{
 text-align:center;
 }
 </style>  
-
 	<!--  kết nối tạo câu lệnh truy vấn-->
 <?php
 		//Kết nối CSDL in danh sách thông tin quảng cáo 
