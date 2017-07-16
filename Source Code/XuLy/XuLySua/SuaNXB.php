@@ -2,20 +2,14 @@
 $errors=0;
 // lấy dữ liệu từ form gán cho biến
 	if(isset($_POST["sua"])){
-	
-	
 		$manxb= $idtv;
-
-	
 	if($_POST["tennxb"]){
 		$tennxb = $_POST["tennxb"];
 	}else{
 		$errors=2;
 	}
-	
 	if($_POST["sdt"]){
 		$sdt = $_POST["sdt"];
-	
 	}
 	else{
 		$errors = 3;
@@ -27,7 +21,6 @@ $errors=0;
 		$errors = 4;//gán lỗi
 	}
 	if($errors == 0)//kiểm tra có lỗi không
-	
 	{
 		//thực hiện
 		require("../../Data/Connect.php");//kết nối CSDL
@@ -50,9 +43,6 @@ $errors=0;
 									}
 								}
                             }
-                    
-  
-		
 		  else
 		  echo "<td> <i><font color=#F00>Dòng thứ -$errors- không được bỏ trống</font></i></td></tr>";//thông báo lỗi
 		  
