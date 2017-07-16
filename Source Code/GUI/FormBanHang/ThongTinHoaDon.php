@@ -52,7 +52,6 @@ table tr td a{
 							$sach=$sach." ".$row1[6]." - ".$row1[3]." "."cuốn"." "."," ;//Ghi lại tên sách
 							if($row1[4]!=0) $tien=$tien+(($row1[10]*$row1[3])-(($row1[10]*$row1[3])*$row1[4]/100));//ghi lại tiền
 							else $tien=$tien+$row1[10]*$row1[3];
-							
 							}
 						}
 				  ?>
