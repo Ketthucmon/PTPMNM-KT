@@ -59,7 +59,6 @@ $errors=0;
 		}
 		  
 		  else
-		  echo "<td> <i><font color=#F00>Dòng thứ -$errors- không được bỏ trống</font></i></td></tr>";//thông báo lỗi
-		  
+		  echo "<td> <i><font color=#F00>Dòng thứ -$errors- không được bỏ trống</font></i></td></tr>";//thông báo lỗi		  
 	}
 ?>
