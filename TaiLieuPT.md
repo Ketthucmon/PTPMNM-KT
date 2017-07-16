@@ -1,5 +1,5 @@
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/00.png" /><br/>
-<center><H2>TÀI LIỆU CHO NHÀ PHÁT TRIỂN</H2></center>
+<center><H2>TÀI LIỆU CHO NHÀ PHÁT TRIỂN</H2></center> 
 <hr/></br>
 <p>Tài liệu này được xây dựng bởi các thành viên:</br>
                       -Nguyễn Đăng Khoa</br>
