@@ -34,7 +34,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                             </tr>
                         </table> 
                     </td>
-                </tr>
+                </tr> 
                 <tr height="31px">
                 	<td colspan="2" id="line-header"></td>
                 </tr>
