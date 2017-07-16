@@ -26,7 +26,7 @@ Lấy tại:<br/>
 </p>
 <p><H4>5.	Thông tin liên hệ</H4><br/>
 Page FB:<link> https://www.facebook.com/groups/316257808844305/</link></br>                      
-<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 Email:KhoaNguyen8947@gmail.com<br/>
 SDT:0978899101<br/>
 </p>
