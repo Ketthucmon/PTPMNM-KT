@@ -13,7 +13,7 @@
 Để dễ quản lý các thành phần của hệ thống, cũng như không bị ảnh hưởng bởi các thay đổi, người ta hay nhóm các thành phần có cùng chức năng lại với nhau và phân chia trách nhiệm cho từng nhóm để công việc không bị chồng chéo và ảnh hưởng lẫn nhau. Một trong những mô hình lập trình như vậy đó là Mô hình 3 lớp (Three Layers).</br>
 
 Mô hình 3 lớp được cấu thành từ: Presentation Layers, Business Logic Layers, và Data Access Layers.</br>
-<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTCMN/01.png" /><br/>
+<center><img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTCMN/01.png" /></center><br/>
 <H5>Presentation Layers:</H5></br>
 Lớp này làm nhiệm vụ giao tiếp với người dùng cuối để thu thập dữ liệu và hiển thị kết quả/dữ liệu thông qua các thành phần trong giao diện người sử dụng. Trong .NET thì bạn có thể dùng Windows Forms, ASP.NET hay Mobile Forms để hiện thực lớp này.</br>
 <H5>Business Logic Layer:</H5></br>
