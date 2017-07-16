@@ -5,7 +5,6 @@ table tr td a{
 	color:#06F;
 }
 </style>
-
    <?php
    require("../../Data/Connect.php");//kết nối CSDL
 	  $abcd = "SELECT * FROM  BanHang.KhachHang";//SQL
