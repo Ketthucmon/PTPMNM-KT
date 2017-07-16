@@ -4,7 +4,6 @@ require("../../Data/Connect.php");
 $sqllay="select * from QuanLy.DiemDanh where iddd='$idtv'";
 $stmtx = db2_prepare($conn, $sqllay);	
 			$result = db2_execute($stmtx);
-             
 
  ?>
 	   <form method="post" enctype="multipart/form-data">
