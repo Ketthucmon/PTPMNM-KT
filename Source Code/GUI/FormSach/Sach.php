@@ -151,13 +151,11 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
 }
 else{
 	header("location:login.php");// về lại trang login
-	
 }
 ?>
 <div id='ads-left'>
 <div style='margin:0 0 5px 0; padding:0;width:200px;position:fixed; left:0; top:0;'>
 <a href='' target='_blank'><img border='0' height='665' src="../img/quangcao6.gif" width='140'/></a>
 </div></div>
-
 </body>
 </html>
