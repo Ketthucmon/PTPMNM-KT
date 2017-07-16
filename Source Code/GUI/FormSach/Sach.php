@@ -62,7 +62,6 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 <tr height="30px">
                     <td></td>
                 </tr>
-
             </table>
              <table width="250px" class="left-menu" border="0px" cellpadding="0px" cellspacing="0px">
             	<tr class="bg-leftbar" height="36px">
