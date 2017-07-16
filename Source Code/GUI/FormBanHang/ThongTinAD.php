@@ -9,7 +9,6 @@
                     -<b>Thông Tin Hóa Đơn</b><br/>
                     -<b>Thông Tin Khách Hàng</b><br/>
                     -<b>Thông Tin Người Dùng</b>          
-                   
                     </td>
                 </tr>
             </table>
