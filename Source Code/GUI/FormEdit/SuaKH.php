@@ -23,7 +23,6 @@ $stmtx = db2_prepare($conn, $sqllay);
                 	<td class="form"><label>Tên Khách Hàng:</label></td>
                     <td class="form"><input type="text" name="tenkh" value="<?php echo"$rowx[2]";?>" /></td><!-- Textbox Tên Khách hàng -->
                 </tr>  
-
        <tr height="50">
                 	<td class="form"><label>Địa Chỉ</label></td>
                     <td class="form"><input type="text" name="dc" value="<?php echo"$rowx[3]";?>" /></td><!-- Textbox Đia Chỉ -->
