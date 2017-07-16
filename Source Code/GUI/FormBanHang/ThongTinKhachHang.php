@@ -21,8 +21,7 @@ table tr td a{
             	<tr id="main-navbar" height="36px"class="menu-item" >
                 	<td colspan="10">Thông Tin Khách Hàng </td> 
               </tr>               
-				      <tr>
-                	
+				      <tr>              	
                  <td align="justify" id="info" >User</td>
                  <td align="justify" id="info" >Pass</td>
                  <td align="justify" id="info">Tên Khách Hàng</td>
