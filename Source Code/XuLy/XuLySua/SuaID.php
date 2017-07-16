@@ -79,7 +79,6 @@ $errors=0;
 								}
                             }
                     
-  
 		  else {if($errors=="Email không đúng định dạng") echo "<td> <i><font color=#F00>- $error -</font></i></td></tr>";
 		  else
 		  echo "<td> <i><font color=#F00>Dòng thứ -$errors- không được bỏ trống</font></i></td></tr>";//thông báo lỗi
