@@ -4,12 +4,10 @@
             	<tr id="main-navbar" height="36px">
                 	<td colspan="6">thêm Lương</td>
                 </tr>
-              
                 <tr height="50">
                 	<td class="form" width="150px"><label>Mã :</label></td>
                     <td class="form"><input type="text" name="ma" /></td>
                 </tr>
-                
                  <tr height="50">
                    <td class="form">User :</td>
                    <td class="form">
@@ -21,9 +19,7 @@
                 		$stmt = db2_prepare($conn, $SQL);//kết nối SQL
                 		
                 		if ($stmt) {		
-                			$result = db2_execute($stmt);
-                		
-                	        
+                			$result = db2_execute($stmt);      
                 ?>
                 	<select name="user" >
                     <?php  
@@ -35,13 +31,10 @@
                                             <?php }}?>
                   </select>
                 </td> </tr>   
-
                 <tr height="50">
                 	<td class="form">Ngày Lĩnh:</td>
                     <td class="form"><input type="text" name="ngay" /></td><!-- Textbox Ngày -->
-                </tr>
-                            
-                          
+                </tr>       
                 <tr height="50">
                 	<td class="form"><input type="submit" name="them" value="ThêmLương" /></td> <td><input type="reset" name="reset_name" value="Làm mới" /></td>
                 </tr>
