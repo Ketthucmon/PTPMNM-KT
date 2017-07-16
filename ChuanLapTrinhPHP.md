@@ -6,7 +6,7 @@
                       -Nguyễn Văn Thắng</br>
                       -Bùi Nguyễn Hồng Phúc</br>
  	                    -Phạm Thị Mỹ Linh</p></br>
-<ul>Page FB: https://www.facebook.com/groups/316257808844305/</ul></br>
+Page FB:<link> https://www.facebook.com/groups/316257808844305/</link></br>
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
 <H2>CHUẨN LẬP TRÌNH PHP</H2>
