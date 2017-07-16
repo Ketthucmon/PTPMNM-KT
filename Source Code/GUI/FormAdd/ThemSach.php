@@ -1,7 +1,7 @@
 <form method="post" enctype="multipart/form-data" runat="server">
             <table width="800px" id="main-content" border="0px" cellpadding="0px" cellspacing="0px">
             	<tr id="main-navbar" height="36px">
-                	<td colspan="6">thêm Sách Vào Kho	</td>
+                	<td colspan="6">Thêm Sách Vào Kho	</td>
                 </tr>
               
                 <tr height="50">
