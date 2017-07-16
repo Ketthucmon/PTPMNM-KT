@@ -26,12 +26,10 @@ $SQL = "SELECT * FROM BanHang.KhachHang where UserKH='$user' and pass='$pass'" ;
 		   $_SESSION["pass"] = $pass;
            header("Location:KhachHang1.php");// chuyển trang
      			  }
-		   
 	          } 
 	 	 }
 	}
-			echo"<script> alert('Tài khoản không hợp lệ !')</script> " ;
-	       
+			echo"<script> alert('Tài khoản không hợp lệ !')</script> " ;       
 }
 }
 ?>
