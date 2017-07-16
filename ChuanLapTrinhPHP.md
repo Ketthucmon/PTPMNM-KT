@@ -1,3 +1,14 @@
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/00.png" /><br/>
+<center><H2>CHUẨN LẬP TRÌNH PHP CỦA TRANG WEB QUẢN LÝ CỬA HÀNG SÁCH</H2></center>
+<hr/></br>
+<p>Tài liệu này được xây dựng bởi các thành viên:</br>
+                      -Nguyễn Đăng Khoa</br>
+                      -Nguyễn Văn Thắng</br>
+                      -Bùi Nguyễn Hồng Phúc</br>
+ 	                    -Phạm Thị Mỹ Linh</p></br>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
+<ul>https://www.facebook.com/groups/316257808844305/</ul>
+<hr/>
 <H2>CHUẨN LẬP TRÌNH PHP</H2>
 <H3>Quy tắc 1. PHP Tags</H3>
 <table>PHP code phải sử dụng tag đầy đủ "<?php ?>" (không nên dùng tag “<? ?>” hoặc short-echo "<?= ?>" tags). Trong một file chỉ bao gồm code PHP thì không được viết tag đóng “?>”.</table>
