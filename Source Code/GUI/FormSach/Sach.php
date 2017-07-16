@@ -74,9 +74,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 <tr height="30px">
                 	<td id="logout" align="right"><a href="../../XuLy/XuLyVaoRa/dangxuat.php">đăng xuất</a></td>
                 </tr>
-            </table>
-           
-           
+            </table>  
         </td>
             
   
