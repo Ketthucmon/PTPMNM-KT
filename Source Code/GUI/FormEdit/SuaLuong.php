@@ -4,8 +4,6 @@ require("../../Data/Connect.php");
 $sqllay="select * from KeToan.Luong inner join QuanLy.Login on KeToan.Luong.madn=QuanLy.Login.madn where maluong='$idtv'";
 $stmtx = db2_prepare($conn, $sqllay);	
 			$result = db2_execute($stmtx);
-             
-
  ?>
 	   <form method="post" enctype="multipart/form-data">
             <table width="800px" id="main-content" border="0px" cellpadding="0px" cellspacing="0px">
