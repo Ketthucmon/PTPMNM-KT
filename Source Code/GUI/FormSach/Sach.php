@@ -49,9 +49,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 </tr>
                 <tr class="menu-item" height="30px">
                     <td height="29"><img width="30px" src="../images/trangchu.png"/><a href="sach.php?page=thongtinad"> trang chủ</a></td><!--Trang chủ -->
-                </tr>
-               
-                               
+                </tr>               
                  <tr class="menu-item" height="30px">
                     <td> <img  width="30px" src="../images/nxb.png"/><a href="sach.php?page=ttnxb"> Đối tác Nhà Xuất Bản</a></td><!--link nxb -->
                 </tr>
