@@ -1,3 +1,4 @@
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/00.png" /><br/>
 <center><H2>TÀI LIỆU HƯỚNG DẪN SỬ DỤNG TRANG WEB QUẢN LÝ CỬA HÀNG SÁCH</H2></center>
 <hr/></br>
 <p>Tài liệu này được xây dựng bởi các thành viên:</br>
@@ -5,6 +6,7 @@
                       -Nguyễn Văn Thắng</br>
                       -Bùi Nguyễn Hồng Phúc</br>
  	                    -Phạm Thị Mỹ Linh</p></br>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
 <p><H4>1.	Hướng dẫn thao tác CSDL  IBM- DB2</H4><br/>
 -	Link download : </br>
@@ -77,4 +79,20 @@
 
 
 </p>
-<p><H4>3.	Hướng dẫn sử dụng trang web</H4><br/>
+<p>
+<H4>3.	Sử dụng chức năng của trang web</H4><br/>
+-DownLoad phần Source Code và phần Source Script CSDL DB2 ở <link> https://github.com/Ketthucmon/PTPMNM-KT</link>  <br/>
+-Bỏ phần Source Code vào thư mục chứa Xampp/htdocs<br/>
+-Chạy CSDL DB2 command Line processer lên thực hiện chạy từng đoạn lệnh source source script, lưu ý ở phần “ connect to Sach user db2admin “ – db2admin là tài khoản để bạn dùng để đăng nhập DB2.<br/>
+-Sau khi chuẩn bị xong chúng ta sẽ bật trình duyệt lên , truy cập vào địa chỉ sau (localhost/WebCuaHangSach/TrangChu.php), trang web sẽ hiện lên như sau.<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhHD/01.png" /><br/>
+-Thực hiện 2 chức năng đăng nhập ( quản trị hệ thống hoặc khách hang)<br/>
+-Đăng nhập  quản trị để có trải nghiệm tính năng quản lý cửa hàng<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhHD/02.png" /><br/>
+-	Giao diện trang Admin<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhHD/03.png" /><br/>
+-	Thực hiện các chức năng của menu hệ thống ví dụ như (thêm, xóa , sửa ) bảng tài khoản , sách , ngày công,…<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhHD/04.png" /><br/>
+-Ngoài ra còn các tính năng khác như in bảng lương sau khi tìm kiếm<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhHD/05.png" /><br/>
+</p>
