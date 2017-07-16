@@ -4,12 +4,10 @@
             	<tr id="main-navbar" height="36px">
                 	<td colspan="6">Đăng Ký Tài Khoản</td>
                 </tr>
-              
                 <tr height="50">
                 	<td class="form" width="150px"><label>Mã Khách Hàng:</label></td>
                     <td class="form"><input type="text" name="makh" /></td>
-                </tr>
-                
+                </tr>                
                 <tr height="50">
                 	<td class="form">Pass:</td>
                     <td class="form"><input type="text" name="pass"/></td>
@@ -17,8 +15,7 @@
                 <tr height="50">
                 	<td class="form">Tên Khách Hàng:</td>
                     <td class="form"><input type="text" name="tenkh" /></td>
-                </tr>
-                            
+                </tr>                            
                              <tr height="50">
                 	<td class="form">Địa Chỉ:</td>
                     <td class="form"><input type="text" name="dc" /></td>
@@ -38,7 +35,6 @@
   <td class="form" colspan="2">         
 <?php
 $errors=0;
-
 	if(isset($_POST["them"])){
 	
 	if($_POST["makh"]){
@@ -51,10 +47,8 @@ $errors=0;
 	}else{
 		$errors=2;
 	}
-	
 	if($_POST["tenkh"]){
 		$tenkh = $_POST["tenkh"];
-	
 	}
 	else{
 		$errors = 3;
@@ -77,7 +71,6 @@ $errors=0;
 	else{
 		$errors = 6;
 	}
-
 	if($errors == 0)
 	{
 		require("../../Data/Connect.php");
@@ -113,7 +106,6 @@ $errors=0;
                     }
                 }
 		}
-		  
 		  else
 		  echo "<td> <i><font color=#F00>Dòng thứ -$errors- không được bỏ trống</font></i></td></tr>";
 		  
