@@ -40,4 +40,4 @@ require("../../Data/Connect.php");//kết nối CSDL
 require("../../XuLy/XuLyThem/themcthd.php"); //triệu gọi xử lý
 	?></td></tr>
             </table>
-            </form>
+            </form> 
