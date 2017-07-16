@@ -1,0 +1,29 @@
+﻿      TRƯỜNG ĐẠI HỌC THÔNG TIN LIÊN LẠC
+	  KHOA CÔNG NGHỆ THÔNG TIN
+Tác giả : Nhóm 3
+	  1.Nguyễn Đăng Khoa
+	  2.Nguyễn Văn Thắng
+	  3.Bùi Nguyễn Hồng Phúc
+	  4.Phạm Thị Mỹ Linh
+Sản phẩm: Website quản lý cửa hàng sách (ver 1.0)
+Lớp : ĐHCN1B
+Khoa : Công Nghệ Thông Tin
+Giáo viên HD : Mai Cường thọ
+Phần mềm được viết nhằm mục đích quản lý cửa hàng sách.
+Ứng dụng công nghệ thông tin trong vào việc kinh doanh và quản lý của cửa hàng sách !
+
+Yêu cầu : + DB2
+	  + WebServer có trong gói Apcher của XAMPP
+Chạy tốt trên Windows 8, Windows 10, Trình duyệt Firefox, Chorme
+	
+Liên hệ chi tiết : Khoanguyen8947@gmail.com - ĐT : 0978899101
+
+                              Hướng Dẫn Cài Đặt
+
+1, Cài đặt DB2 (https://github.com/Ketthucmon/PTPMNM-KT/blob/master/LayMaHD.md)
+2, Cài đặt XAMPP (https://github.com/Ketthucmon/PTPMNM-KT/blob/master/LayMaHD.md)
+
+Đây là sản phẩm bản quyền của chúng tôi, mọi hành vi mua bán đều là không hợp lệ!!!
+
+Đồng ý với các điều khoản trên để sử dụng .
+
