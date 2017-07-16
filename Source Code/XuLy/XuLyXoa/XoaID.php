@@ -6,7 +6,6 @@ $stmt = db2_prepare($conn, $sql);
 		
 		if ($stmt) {		
 			$result = db2_execute($stmt);
-
 header("location:admin.php?page=qltk");//load lại trang
 		}
 ?>
