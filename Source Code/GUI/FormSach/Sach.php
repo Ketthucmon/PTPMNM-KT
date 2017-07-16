@@ -55,9 +55,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 </tr>
                  <tr class="menu-item" height="30px">
                     <td> <img  width="30px" src="../images/khosach.png"/><a href="sach.php?page=ttsach"> Thông tin Kho Sách</a></td><!--link sách -->
-                </tr>
-               
-                 
+                </tr>             
                  <tr class="menu-item" height="30px">
                     <td> <img  width="30px" src="../images/user.png"/><a href="sach.php?page=ttnguoidung">Thông tin người dùng</a></td><!--Link người dùng -->
                 </tr>
