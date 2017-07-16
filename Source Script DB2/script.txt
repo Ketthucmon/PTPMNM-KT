@@ -23,5 +23,3 @@ Insert into Sach.Sach values('S01','Tieng Viet 3','01','TL02','NXB04',30000,'Kho
 Insert into BanHang.KhachHang Values('KH01','123456','A','23 Mai Xuan Thuong','ABC@gmail.com','091245678'),('KH02','123456','B','24 Mai Xuan Thuong','ABC1@gmail.com','091245678'),('KH03','123456','C',' Vinh Hoa NT','ABC3@gmail.com','091245678'),('KH04','123456','D',' Vinh Hoa NT','ABC4@gmail.com','091245678')
 Insert into BanHang.HoaDon values('01','2017-09-08','KH01'),('02','2017-09-08','KH02'),('03','2017-10-08','KH03'),('04','2017-09-11','KH04'),('05','2017-09-08','KH02')
 Insert into BanHang.HDMH values(1,'01','S02',2,0),(2,'01','S01',1,10000),(3,'02','S06',1,20000),(4,'03','S02',1,0),(7,'04','S02',1,0),(5,'02','S01',1,0),(6,'03','S03',1,20000)
-
-
