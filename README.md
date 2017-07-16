@@ -1,51 +1,46 @@
-
-
-
-<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/Linh/image/Header.png" />
-
-
-<hr/><br/>
-Thực hiện :<li>Nguyễn Đăng Khoa </li>
-                   <li> Bùi Nguyễn Hồng Phúc</li>
-                   <li>Nguyễn Văn Thắng</li>
-                   <li>Phạm Thị Mỹ Linh</li><br/>
-Thông tin liên lạc : SDT_0978899101 – Gmail_(Khoanguyen8947@gmail.com)
-<br/>
-
-
-<hr>
-<b>Bối cảnh:</b>
-<br>Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
-<br>Công ty bán lẻ sách Phương Nam cũng không nằm ngoài xu thế phát triển này, ngoài việc ứng dụng Công nghệ thông tin vào việc quản lý hàng hóa, Công ty Phương Nam còn có website giới thiệu các mặt hàng, cập nhật thông tin khuyến mại, giá cả sách, giúp người mua có thể có thông tin chính xác nhất  về các mặt hàng mình cần trong thời gian ngắn nhất.
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/00.png" /><br/>
+<center><H2>GIỚI THIỆU DỰ ÁN WEB CỬA HÀNG SÁCH PHƯƠNG NAM</H2></center>
+<hr/></br>
+<p>Tài liệu này được xây dựng bởi các thành viên:</br>
+                      -Nguyễn Đăng Khoa</br>
+                      -Nguyễn Văn Thắng</br>
+                      -Bùi Nguyễn Hồng Phúc</br>
+ 	                    -Phạm Thị Mỹ Linh</p></br>
+Page :<link>https://www.facebook.com/groups/316257808844305/ </link>                      
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
 
-<hr>
-<b>Sơ lược về sản phẩm :</b> 
-<br>-Sản phẩm được tạo ra nhằm giúp quản lý các công việc của cửa hàng sách, giúp người quản lý cửa hàng dễ dàng quản lý nhân viên cũng như chi tiêu trong cửa hàng
-<br>-Sản phẩm hướng tới đối tượng  là các cửa hàng sách bán lẻ ( cụ thể : cửa hàng sách Phương Nam)
+<p><H4>Tóm tắt</H4><br/>
+<li> MỤC TIÊU  </li>
+<li> PHÁT TRIỂN PHIÊN BẢN</li>
+<li> KÊNH TRUYỀN THÔNG</li>
+<li> MỤC TIÊU PHÁT TRIỂN TƯƠNG LAI</li>
+</p><br/>
 
-
-<hr/>
-<b>- Mục tiêu dự án:</b><br/>
-<br/><li>Quản lý sách (nhân viên quản lý sách ).  </li>
-  <br/>-In ra danh sách ‘Sách’ (theo tên , thể loại ,lứa tuổi ,số lượng,...)
-  <br/>-Cập nhật (thêm, xóa, sửa) sách .
- <br/> -In ra thể loại sách có nhiều sách nhất . 
-<br/><li>Quản lý nhân viên ( quản lý).</li>
- <br/> -In ra danh sách tài khoản nhân viên ( cả danh sách nhân viên ).
- <br/> -Cập nhật ( thêm , xóa ,sửa) id nhân viên , khách hàng .
-  <br/>-Chấm công nhân viên theo tháng .
-  <br/>-Danh sách nhân viên làm đủ số ngày qui định.
-<br/><li>Quản lý bán hàng (nhân viên bán hàng   ).</li>
-  <br/>-In ra tổng doanh thu theo ngày . 
-  <br/>-In hóa đơn sản phẩm .
-  <br/>-In ra sách được bán nhiều nhất trong ngày và tiền thu được từ sách đó .
-<br/><li>Quản lý thu chi (nhân viên kế toán ) .</li>
-  <br/>-Tính , in ra lương của từng nhân viên theo tháng.
-  <br/>-In ra danh sách nhân viên ứng lương trong tháng .
-<br/><li>Bán hàng trực tuyến.</li>
-  <br/>-In ra danh sách ‘Sách’ bán chạy theo tháng.
-  <br/>-Cập nhật , in thông tin cá nhân tài khoản khách hàng .
-  <br/>-Đặt mua sách .( Cập nhật lại số lượng sách mà khách hàng mua , tính tiền sau khi thanh toán )
-
+<p><H4>1.Mục tiêu</H4><br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/01.png" /><br/>
+- Những bên liên quan đến dự án:<br/>
+•	Cửa hàng Sách<br/>
+•	Đội ngũ nhân viên<br/>
+•	Khách hàng <br/>
+- Giá trị dự án : mở rộng kinh doanh online, xây dựng hệ thống quản lý cửa hàng Sách Phương Nam<br/>
+- Giá cả : vừa phải, hợp lý <br/>
+-Mô tả yêu cầu chức năng của trang web<br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/04.png" /><br/>
+- Các thỏa thuận : <br/>
+•	Bên cửa hàng đã đặt ra các yêu cầu liên quan và không được thay đổi đơn phương đối với các yêu cầu đã đặt ra như mục tiêu dự án <br/>
+•	Bên cửa hàng cần cung cấp đầy đủ thông tin về cách thiết lập mua bán và hỗ trợ cung cấp thông tin liên quan đến phần mềm cửa hàng<br/>
+</p>
+<p><H4>2.Phiên bản và phát triển phiên bản </H4><br/>
+-Phiên bản đầu tiên được nhóm dự án chúng tôi đặt tên WebCuaHangSach 1.0 ( gọi tắt WebSach1.0)<br/>
+-Phiên bản WebCuaHangSach 1.0  mới thực hiện lần đầu còn nhiều vấn để thiếu sót, đang thực hiện thử nghiệm ở nhà sách Phương Nam.<br/>
+-Hiện tại trong tương lai chúng tôi dự định sẽ phát triển tiếp tục mở rộng các chức năng khách hang đáng được mong đợi có thể ra mắt vào năm 2018<br/>
+</p> 
+<p><H4>3. Kênh truyền thông :</H4><br/>
+-Page :<link>https://www.facebook.com/groups/316257808844305/</link>
+</p>
+<p><H4>Mục tiêu phát triển tương lai:</H4><br/>
+-Mở rộng chức năng khách hàng , mua bán bằng thẻ ngân hàng, đặt hàng thông qua Visa<br/>
+-Củng cố lỗi chưa xử lý được để hệ thống hoàn thiện hơn ở phiên bản 2.0 <br/> 
+</p>
 
