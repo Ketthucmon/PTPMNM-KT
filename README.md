@@ -6,7 +6,7 @@
                       -Nguyễn Văn Thắng</br>
                       -Bùi Nguyễn Hồng Phúc</br>
  	                    -Phạm Thị Mỹ Linh</p></br>
-Page :<link>https://www.facebook.com/Quanlycuahangsac </link>                      
+Page :<link>https://www.facebook.com/groups/316257808844305/ </link>                      
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
 
@@ -37,7 +37,7 @@ Page :<link>https://www.facebook.com/Quanlycuahangsac </link>
 -Hiện tại trong tương lai chúng tôi dự định sẽ phát triển tiếp tục mở rộng các chức năng khách hang đáng được mong đợi có thể ra mắt vào năm 2018<br/>
 </p>
 <p><H4>3. Kênh truyền thông :</H4><br/>
--Page :<link>https://www.facebook.com/groups/316257808844305/</link>
+-Page :<link>https://www.facebook.com/Quanlycuahangsach/</link>
 </p>
 <p><H4>Mục tiêu phát triển tương lai:</H4><br/>
 -Mở rộng chức năng khách hàng , mua bán bằng thẻ ngân hàng, đặt hàng thông qua Visa<br/>
