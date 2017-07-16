@@ -28,7 +28,6 @@ Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và tru
 - DAL sẽ thao tác với Database và trả kết quả về cho BLL, BLL kiểm tra và gửi nó lên GUI để hiển thị cho người dùng.</br>
 - Một khi gặp lỗi (các trường hợp không đúng dữ liệu) thì đang ở layer nào thì quăng lên trên layer cao hơn nó 1 bậc cho tới GUI thì sẽ quăng ra cho người dùng biết.</br>
 - Các dữ liệu được trung chuyển giữa các Layer thông qua một đối tượng gọi là Data Transfer Object (DTO), đơn giản đây chỉ là các Class đại diện cho các đối tượng được lưu trữ trong Database.</br>
-
 </p>
 <p><H4>2.Tổ chức 3 Layer của Website cửa hàng sách</H4><br/>
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTCMN/02.png" /><br/>
