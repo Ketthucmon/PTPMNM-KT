@@ -19,7 +19,6 @@ $stmtx = db2_prepare($conn, $sqllay);
                 	<td class="form"><label>Tên Sách:</label></td>
                     <td class="form"><input type="text" name="tensach" value="<?php echo"$rowx[1]";?>" /></td><!-- Textbox Sách-->
                 </tr>  
-
                 <tr height="50">
                 	<td class="form"><label>Ảnh Sách :<?php echo"$rowx[2]";?> </label></td><!-- Textbox Ảnh Sách -->
                     <td class="form"><input type="file" name="image_upload" accept="image/*" onchange="loadFile(event)"><input  type="hidden" name="hinh"  value="<?php echo"$rowx[2]";?>"/>
