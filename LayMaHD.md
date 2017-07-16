@@ -16,14 +16,14 @@ tiết kiệm thời gian và không gian lưu trữ.
 Qua bài viết và nội dung được tải lên, nếu các bạn muốn tham gia để đóng góp mã nguồn, giúp 
 dự án thêm nhiều ưu điểm, hạn chế những sai sót, rủi ro.
 
-## CÁCH LẤY MÃ
+## CÁCH LẤY MÃ</br>
 <ul>
 <li> Github-Lấy mã PHP:  (https://github.com/Ketthucmon/PTPMNM-KT/tree/master/Source%20Code)</li>
 <li> Github-Lấy mã DB2:  (https://github.com/Ketthucmon/PTPMNM-KT/tree/master/Source%20Script%20DB2)</li>
 </ul>
 Sau khi lấy dữ liệu về (pull) máy tính các bạn đặt source code vào thư mục xampp/htdocs/... , DB2 thì thực hiện chạy code trên command line processor - Lưu ý: Chạy từng dòng code một.</br>
 Nếu chưa biết và CSDL DB2 hoặc Xampp các bạn có thể tham khảo https://github.com/Ketthucmon/PTPMNM-KT/blob/master/TaiLieuHD.md</br>
-## CÁCH ĐÓNG GÓP MÃ NGUỒN
+## CÁCH ĐÓNG GÓP MÃ NGUỒN</br>
 Nếu muốn đóng góp hoặc gặp khó khăn gì thì liên hệ với chúng tôi qua những thông tin sau:
 <ul>
 <li> Page Facebook:  (https://www.facebook.com/groups/316257808844305/)</li>
