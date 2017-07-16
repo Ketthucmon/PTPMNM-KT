@@ -144,7 +144,6 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
 			default: include_once("thongtinad.php");//gọi thông tin page trang chủ
 			}
 		?>
-        
         </td>
     </tr>
    
