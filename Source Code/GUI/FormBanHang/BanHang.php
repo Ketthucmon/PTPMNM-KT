@@ -13,7 +13,7 @@ session_start();
 <link rel="stylesheet" type="text/css" href="../css/login.css">
 </head>
 <body>
-<?php  
+<?php   
 if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăng nhập chưa
 ?>
 <table id="thanhkeo" width="900px" border="0px" cellpadding="0px" cellspacing="0px">
