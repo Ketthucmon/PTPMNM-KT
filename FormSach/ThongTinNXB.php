@@ -4,7 +4,7 @@ table tr td a{
 	text-decoration:none;
 	color:#06F;
 }
-</style>
+</style> 
 
       <?php
       //KẾt nối bảng NXB
