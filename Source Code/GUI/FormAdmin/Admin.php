@@ -88,7 +88,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//nếu đã thực hiện quá trìn
             </table>
              <table width="250px" class="left-menu" border="0px" cellpadding="0px" cellspacing="0px">
             	<tr class="bg-leftbar" height="36px">
-                	<td>thông tin đăng nhập</td>
+                	<td>Thông Tin Đăng Nhập</td>
                 </tr>
                 <tr height="30px">
                 	<td id="user-info">Xin chào <b><?php echo $_SESSION["user"]?></b>! Người Quản Trị Hệ Thống.</td>
