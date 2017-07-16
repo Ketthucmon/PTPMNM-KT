@@ -18,7 +18,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
 ?>
 <table id="thanhkeo" width="900px" border="0px" cellpadding="0px" cellspacing="0px">
 	<!--Cấu tạo Của Trang page bán hàng -->
-    <tr>
+    <tr> 
     	<td colspan="2" id="header">
         	<table border="0px" cellpadding="0px" cellspacing="0px">
             	<tr>
