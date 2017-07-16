@@ -2,10 +2,7 @@
 $errors=0;
 	if(isset($_POST["sua"])){
 // lấy dữ liệu từ form gán cho biến	
-	
 		$masach= $idtv;
-
-	
 	if($_POST["tensach"]){
 		$tensach = $_POST["tensach"];
 	}
@@ -30,7 +27,6 @@ $errors=0;
 	if($_POST["tennxb"]){
 		$tennxb = $_POST["tennxb"];
 	}
-	
 	if($_POST["gia"]){
 		$gia = $_POST["gia"];
 	}
@@ -73,11 +69,7 @@ $errors=0;
 									}
 								}
                             }
-                    
-  
-		
 		  else
-		  echo "<td> <i><font color=#F00>Dòng thứ -$errors- không được bỏ trống</font></i></td></tr>";
-		  
+		  echo "<td> <i><font color=#F00>Dòng thứ -$errors- không được bỏ trống</font></i></td></tr>";  
 	}
 ?>
