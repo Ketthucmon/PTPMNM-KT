@@ -62,8 +62,7 @@ $result = db2_execute($stmtx);
                 		
                 		if ($stmt) {		
                 			$result = db2_execute($stmt);
-                		
-                	        
+                       
                 ?>
                 	<select name="cv">
                       <option 
