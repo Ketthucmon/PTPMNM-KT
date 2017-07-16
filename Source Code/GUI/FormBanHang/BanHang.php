@@ -50,8 +50,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 </tr>
                 <tr class="menu-item" height="30px">
                     <td height="29"><img width="30px" src="../images/trangchu.png"/><a href="banhang.php?page=thongtinad"> trang chủ</a></td><!--Trang chủ -->
-                </tr>
-               
+                </tr>              
                                 <tr class="menu-item" height="30px">
                  <tr class="menu-item" height="30px">
                     <td> <img  width="30px" src="../images/Hoadon.png"/><a href="banhang.php?page=tthoadon"> Thông tin Hóa Đơn</a></td><!--Link Hóa Đơn -->
