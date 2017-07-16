@@ -75,8 +75,6 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 </tr>
             </table>  
         </td>
-            
-  
         <td align="right" valign="top" width="650px">
    <?php
             error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
