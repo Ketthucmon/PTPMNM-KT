@@ -84,11 +84,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 	<td id="logout" align="right"><a href="../../XuLy/XuLyVaoRa/dangxuat.php">đăng xuất</a></td>
                 </tr>
             </table>
-           
-           
         </td>
-            
-  
         <td align="right" valign="top" width="650px">
                         <?php
             error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
@@ -158,11 +154,8 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
 			default: include_once("thongtinad.php");//gọi thông tin page trang chủ
 			}
 		?>
-        
         </td>
     </tr>
-   
-
 </table>              
 <?php
 }
