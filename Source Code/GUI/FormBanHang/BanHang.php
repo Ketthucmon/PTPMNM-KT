@@ -151,7 +151,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
 </table>              
 <?php
 }
-else{
+else{ 
 	header("location:login.php");
 }
 ?>
