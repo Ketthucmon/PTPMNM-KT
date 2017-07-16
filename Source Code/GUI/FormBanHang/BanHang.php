@@ -21,7 +21,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
     <tr> 
     	<td colspan="2" id="header">
         	<table border="0px" cellpadding="0px" cellspacing="0px">
-            	<tr>
+            	<tr> 
                  <!--Cấu tạo ảnh header  -->
                 	<td width="247" rowspan="2"><img src="../img/cuochop.jpeg" width="248" height="204" /></td>
                     <td width="800"><img src="../img/head.jpg" width="785" height="171" /></td>
