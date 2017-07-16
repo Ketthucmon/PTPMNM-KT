@@ -39,8 +39,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 </tr>
             </table>
         </td>
-    </tr>
-  
+    </tr>  
     <tr id="body">
     	<td align="left" valign="top" width="250px">
         	<!-- Left Menu -->
