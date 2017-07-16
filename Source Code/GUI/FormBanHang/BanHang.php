@@ -1,7 +1,7 @@
 <!-- Khởi tạo biến-->
 <?php
 ob_start();
-session_start();
+session_start(); 
 ?> 
 <!-- Thông tin cấu hình trang page--> 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
