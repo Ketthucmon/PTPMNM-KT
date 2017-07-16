@@ -13,7 +13,6 @@ session_start();
 <link rel="stylesheet" type="text/css" href="../css/login.css">
 </head>
 <body>
-
 <?php
 if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăng nhập chưa
 ?>
@@ -55,10 +54,6 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
                 </tr>
                
                                 <tr class="menu-item" height="30px">
-               
-                
-                
-                 
                  <tr class="menu-item" height="30px">
                     <td> <img  width="30px" src="../images/Hoadon.png"/><a href="banhang.php?page=tthoadon"> Thông tin Hóa Đơn</a></td><!--Link Hóa Đơn -->
                 </tr>
