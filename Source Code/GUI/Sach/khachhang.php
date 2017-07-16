@@ -7,12 +7,9 @@ session_start();
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Trang Login</title>
-
 <link rel="stylesheet" type="text/css" href="css/login.css">
 </head>
-
-<body>
-       
+<body>      
 <script type="text/javascript" src="http://www.trungtamtinhoc.edu.vn/api/snowstorm.js"></script>
 <table id="thanhkeo" width="900px" border="0px" cellpadding="0px" cellspacing="0px">
 	<tr>
