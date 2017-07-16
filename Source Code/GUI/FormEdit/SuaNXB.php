@@ -19,7 +19,6 @@ $stmtx = db2_prepare($conn, $sqllay);
                 	<td class="form"><label>Tên Nhà Xuất Bản:</label></td>
                     <td class="form"><input type="text" name="tennxb" value="<?php echo"$rowx[1]";?>" /></td><!-- Textbox NXB-->
                 </tr>  
-
        <tr height="50">
                 	<td class="form"><label>Số Điện Thoại</label></td>
                     <td class="form"><input type="text" name="sdt" value="<?php echo"$rowx[2]";?>" /></td><!-- Textbox SDT-->
