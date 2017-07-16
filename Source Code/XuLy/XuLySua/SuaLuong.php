@@ -2,23 +2,18 @@
 $errors=0;
 //lấy dữ liệu từ form
 	if(isset($_POST["sua"])){
-		
 		$ma= $idtv;
-	
 		if($_POST["user"]){
 		$user = $_POST["user"];
 	}else{
 		$errors=2;
 	}
-	
 	if($_POST["ngay"]){
 		$ngay = $_POST["ngay"];
-	
 	}
 	else{
 		$errors = 3;//gán lỗi
 	}	if($errors == 0)//kiểm tra dòng lỗi
-	
 	{
 		require("../../Data/Connect.php");//kết nối CSDL
 			if($conn)
@@ -27,8 +22,7 @@ $errors=0;
 		$SQL1= "update  KeToan.Luong set madn='$user',ngayluong='$ngay' where maluong='$ma'";
 				
 					$stmt = db2_prepare($conn, $SQL1);
-                   //thực hiện sửa
-					
+                   //thực hiện sửa	
 								  if ($stmt) {		
 								  $result = db2_execute($stmt);
 								  if (!$result) {
