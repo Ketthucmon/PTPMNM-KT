@@ -35,7 +35,7 @@ Nếu muốn truyền tham trị, thì phải đặt “&” ở trước biến
 <table>Tương tự If/ Else/ Elseif, giữa chữ “switch” và ngoặc mở “(“phải có 1 khoảng trắng, và giữa ngoặc đóng “)” và “{“ phải có 1 khoảng trắng nữa. Ngoặc cong mở “{“ phải nằm chung hàng với if, và ngoặc cong đóng “}” phải nằm ở hàng của riêng nó. Tất cả các nội dung bên trog switch phải được thục dòng 4 khoảng trắng. Và nội dung của mỗi “case” phải được thục dòng thêm 4 khoảng trắng nữa!</table>
 <hr/>
 <H3>Quy tắc 11. While/ Do …While/ For/ Foreach</H3>
-<H4>-Cấu trúc While:<H4>
+<H4>-Cấu trúc While:</H4>
 <table>while ($expr) {<br/>
     // structure body<br/>
 }</table>
@@ -44,12 +44,12 @@ Nếu muốn truyền tham trị, thì phải đặt “&” ở trước biến
     // structure body;<br/>
 } while ($expr);</table>
 <H4>-Cấu trúc For:</H4><br/>
- <?php<br/
+ ?php<br/
 for ($i = 0; $i < 10; $i++) {<br/>
     // for body<br/>
 }
 <H4>-Cấu trúc Foreach:</H4><br/>
-<table><?php<br/>
+?php<br/>
 foreach ($iterable as $key => $value) {<br/>
     // foreach body<br/>
 }</table>
