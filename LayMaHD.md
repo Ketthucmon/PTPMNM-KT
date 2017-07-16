@@ -8,6 +8,7 @@
  	                    -Phạm Thị Mỹ Linh</p></br>
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
+
 ## CÁCH LẤY MÃ NGUỒN VÀ ĐÓNG GÓP MÃ NGUỒN</br>
 Website quản lý cửa hàng sách luôn được cải tiến và làm mới. Nắm được những
 vấn đề liên quan và thêm nhiều suy nghĩ mới mẻ cho dự án. Nhằm nâng cao chất lượng quản lý,
@@ -23,6 +24,7 @@ dự án thêm nhiều ưu điểm, hạn chế những sai sót, rủi ro.
 </ul>
 Sau khi lấy dữ liệu về (pull) máy tính các bạn đặt source code vào thư mục xampp/htdocs/... , DB2 thì thực hiện chạy code trên command line processor - Lưu ý: Chạy từng dòng code một.</br>
 Nếu chưa biết và CSDL DB2 hoặc Xampp các bạn có thể tham khảo https://github.com/Ketthucmon/PTPMNM-KT/blob/master/TaiLieuHD.md</br>
+
 ## CÁCH ĐÓNG GÓP MÃ NGUỒN</br>
 Nếu muốn đóng góp hoặc gặp khó khăn gì thì liên hệ với chúng tôi qua những thông tin sau:
 <ul>
