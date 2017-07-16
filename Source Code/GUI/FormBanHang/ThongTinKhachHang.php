@@ -21,8 +21,7 @@ table tr td a{
     <table width="800px" id="main-content" border="1px" cellpadding="0px" cellspacing="0px">
             	<tr id="main-navbar" height="36px"class="menu-item" >
                 	<td colspan="10">Thông Tin Khách Hàng </td> 
-              </tr>
-               
+              </tr>               
 				      <tr>
                 	
                  <td align="justify" id="info" >User</td>
