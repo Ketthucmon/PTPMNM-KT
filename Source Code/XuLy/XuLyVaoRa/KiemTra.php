@@ -31,8 +31,6 @@ $SQL = "SELECT * FROM QuanLy.Login where MaDN='$user' and pass='$pass'" ;//câu 
 					}
 			}
     	           }
-	    
-      
            }
 }
 
