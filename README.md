@@ -6,7 +6,7 @@
                       -Nguyễn Văn Thắng</br>
                       -Bùi Nguyễn Hồng Phúc</br>
  	                    -Phạm Thị Mỹ Linh</p></br>
-Page :<link>https://www.facebook.com/groups/316257808844305/ </link>                      
+Page :<link>https://www.facebook.com/Quanlycuahangsac </link>                      
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
 
