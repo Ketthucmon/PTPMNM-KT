@@ -12,7 +12,6 @@ session_start();
 <link rel="stylesheet" type="text/css" href="../css/login.css">
 </head>
 <body>
-
 <?php
 if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăng nhập chưa
 ?>
