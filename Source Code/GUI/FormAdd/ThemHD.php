@@ -1,15 +1,12 @@
-
 	   <form method="post" enctype="multipart/form-data">
             <table width="800px" id="main-content" border="0px" cellpadding="0px" cellspacing="0px">
             	<tr id="main-navbar" height="36px">
                 	<td colspan="6">thêm Hóa Đơn</td>
                 </tr>
-              
                 <tr height="50">
                 	<td class="form" width="150px"><label>Mã Hóa Đơn:</label></td>
                     <td class="form"><input type="text" name="mahd" /></td><!-- Textbox MaHD-->
                 </tr>
-                
                 <tr height="50">
                 	<td class="form">Ngày Hóa Đơn:</td>
                     <td class="form"><input type="text" name="ngayhd"/></td><!-- Textbox ngàyhD-->
@@ -25,9 +22,7 @@
                 		$stmt = db2_prepare($conn, $SQL);
                 		
                 		if ($stmt) {		
-                			$result = db2_execute($stmt);
-                		
-                	        
+                			$result = db2_execute($stmt);       
                 ?>
                 	<select name="user" >
                     <?php  
