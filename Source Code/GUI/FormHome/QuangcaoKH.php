@@ -20,8 +20,7 @@ table tr td mark{
     <table width="1000px" id="main-content" border="0px" cellpadding="0px" cellspacing="0px">
             	<tr id="main-navbar" height="36px"class="menu-item" >
                 	<td colspan="6">Sản Phẩm Nổi Bật</td>
-                </tr>
-         
+                </tr>    
         <?php  while($row=db2_fetch_array($stmt)){//duyệt các cột truy vấn được in ra màn hình?>
 				<tr>
                 	<td id="info">
