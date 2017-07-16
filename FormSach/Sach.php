@@ -1,5 +1,5 @@
 <!-- Khởi tạo biến-->
-<?php
+<?php 
 ob_start();
 session_start();
 ?><!-- Thông tin cấu hình trang page-->
