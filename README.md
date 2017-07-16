@@ -26,7 +26,7 @@ Page :<link>https://www.facebook.com/groups/316257808844305/ </link>
 - Giá trị dự án : mở rộng kinh doanh online, xây dựng hệ thống quản lý cửa hàng Sách Phương Nam<br/>
 - Giá cả : vừa phải, hợp lý <br/>
 -Mô tả yêu cầu chức năng của trang web<br/>
-<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/03.png" /><br/>
+<img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/04.png" /><br/>
 - Các thỏa thuận : <br/>
 •	Bên cửa hàng đã đặt ra các yêu cầu liên quan và không được thay đổi đơn phương đối với các yêu cầu đã đặt ra như mục tiêu dự án <br/>
 •	Bên cửa hàng cần cung cấp đầy đủ thông tin về cách thiết lập mua bán và hỗ trợ cung cấp thông tin liên quan đến phần mềm cửa hàng<br/>
