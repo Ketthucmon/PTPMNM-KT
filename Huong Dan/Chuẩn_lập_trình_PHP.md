@@ -1,6 +1,6 @@
 <H2>CHUẨN LẬP TRÌNH PHP</H2>
 <H3>Quy tắc 1. PHP Tags</H3>
-<table>PHP code phải sử dụng tag đầy đủ <?php ?> (không nên dùng tag “<? ?>” hoặc short-echo <?= ?> tags). Trong một file chỉ bao gồm code PHP thì không được viết tag đóng “?>”.</table>
+<table>PHP code phải sử dụng tag đầy đủ "<?php ?>" (không nên dùng tag “<? ?>” hoặc short-echo "<?= ?>" tags). Trong một file chỉ bao gồm code PHP thì không được viết tag đóng “?>”.</table>
 <hr/>
 <H3>Quy tắc 2. Canh lề - Indenting</H3>
 <table>Không dùng tab, mà phải sử dụng 4 dấu cách làm indent.</table>
@@ -44,14 +44,14 @@ Nếu muốn truyền tham trị, thì phải đặt “&” ở trước biến
     // structure body;<br/>
 } while ($expr);</table>
 <H4>-Cấu trúc For:</H4><br/>
- ?php<br/
+ "<?php<br/
 for ($i = 0; $i < 10; $i++) {<br/>
     // for body<br/>
 }
 <H4>-Cấu trúc Foreach:</H4><br/>
-?php<br/>
+"<?php><br/>
 foreach ($iterable as $key => $value) {<br/>
-    // foreach body<br/>
+    // foreach body <br/>
 }</table>
 <hr/>
 <H3>Quy tắc 12. Try… Catch</H3>
