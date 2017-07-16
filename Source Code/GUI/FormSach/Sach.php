@@ -109,7 +109,7 @@ if($_SESSION["user"] && $_SESSION["pass"]){//kiểm tra đã thực hiện đăn
 			break;
 			case "xoaid": include_once("../../XuLy/XuLyXoa/xoaid.php");//xử lý xóa id
 			break;
-	        case "themluong": include_once("../FormAdd/themluong.php");//gọi form them lương
+	        	case "themluong": include_once("../FormAdd/themluong.php");//gọi form them lương
 			break; 
 			case "sualuong": include_once("../FormEdit/sualuong.php");//gọi form sửa lương
 			break;
