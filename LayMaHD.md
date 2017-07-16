@@ -17,7 +17,6 @@ tiết kiệm thời gian và không gian lưu trữ.
 
 Qua bài viết và nội dung được tải lên, nếu các bạn muốn tham gia để đóng góp mã nguồn, giúp 
 dự án thêm nhiều ưu điểm, hạn chế những sai sót, rủi ro.
-
 ## CÁCH LẤY MÃ</br>
 <ul>
 <li> Github-Lấy mã PHP:  (https://github.com/Ketthucmon/PTPMNM-KT/tree/master/Source%20Code)</li>
