@@ -10,7 +10,7 @@ Page FB:<link> https://www.facebook.com/groups/316257808844305/</link></br>
 <img src="https://github.com/Ketthucmon/PTPMNM-KT/blob/master/AnhTL/10.png" /><br/>
 <hr/>
 <H4> TRƯỜNG ĐẠI HỌC THÔNG TIN LIÊN LẠC </br>
-         KHOA CÔNG NGHỆ THÔNG TIN </H4></br>
+</t>KHOA CÔNG NGHỆ THÔNG TIN </H4></br>
 <p>
 Tác giả : Nhóm 3</br>
 	  1.Nguyễn Đăng Khoa</br>
