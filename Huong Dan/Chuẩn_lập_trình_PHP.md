@@ -44,11 +44,11 @@ Nếu muốn truyền tham trị, thì phải đặt “&” ở trước biến
     // structure body;<br/>
 } while ($expr);</table>
 <H4>-Cấu trúc For:</H4><br/>
-<table><?php<br/
+ <?php<br/
 for ($i = 0; $i < 10; $i++) {<br/>
     // for body<br/>
-}</table>
-<H4>-Cấu trúc Foreach:<H4><br/>
+}
+<H4>-Cấu trúc Foreach:</H4><br/>
 <table><?php<br/>
 foreach ($iterable as $key => $value) {<br/>
     // foreach body<br/>
